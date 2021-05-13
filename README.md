@@ -16,7 +16,7 @@
 
 
 ## 💻 Project
-**Tec Blog** 
+**Tec-Blog** 
 
 ## :rocket: Technologies
 Este projeto foi desenvolvido com as seguintes tecnologias:
